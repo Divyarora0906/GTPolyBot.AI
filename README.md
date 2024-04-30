@@ -1,1 +1,1 @@
-Created for College Mini Project in 2024 January-June Session using HTML CSS JS
+Created by Divy Arora for College Mini Project in 2024 January-June Session using HTML CSS JS
